@@ -1,0 +1,35 @@
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\admin\Desktop\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.sourcelink.json
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\bezik\Desktop\Нова папка (4)\2\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
